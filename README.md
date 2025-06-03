@@ -6,3 +6,9 @@
   - 🐍 Python for Data Science
 - 💡 Interested in low-level programming & data analysis
 - 🚀 Open to collaborations and exciting new challenges
+
+
+## 📫 Get in touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jan-saenger-983811286/)
+- 📧 [Email]jani.saenger@gmail.com
