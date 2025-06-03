@@ -1,6 +1,7 @@
 
 ## 👋 Hello there, I'm Jan
 
+<br>
 
 - 🎓 Just finished the Core Curriculum at [42 Coding School](https://42heilbronn.de/)
 - 🛠️ Currently working on small projects in different areas:
