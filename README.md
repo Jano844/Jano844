@@ -10,5 +10,5 @@
 
 ## 📫 Get in touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jan-saenger-983811286/)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/deinprofil/)
 - 📧 jani.saenger@gmail.com
