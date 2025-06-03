@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm [Your Name]
+## 👋 Hello there, I'm Jan
 
 - 🎓 Just finished the Core Curriculum at [42 Coding School](https://42heilbronn.de/)
 - 🛠️ Currently working on small projects in different areas:
