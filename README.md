@@ -11,4 +11,4 @@
 ## 📫 Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-saenger-983811286/)
-- 📧 [Email]jani.saenger@gmail.com
+- 📧 jani.saenger@gmail.com
