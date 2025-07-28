@@ -27,3 +27,5 @@
 ## 📫 Get in touch with me:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/deinprofil/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/>](mailto:jani.saenger@gmail.com)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jano844&show_icons=true&locale=en&layout=compact" alt="Jano844" /></p>
